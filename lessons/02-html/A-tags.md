@@ -9,7 +9,7 @@ We're going to start building our very first website. At first our website is go
 HTML's base building block is the **tag**. A tag is a building block. It describes what's inside it. Every tag has an opening and a closing tag (some tags open and close at the same point.) I think the easiest way to learn it is just to show a bunch of examples.
 
 ```html
-<h1>This is the title to my document</h1>
+<h1>This is the title to my document!</h1>
 ```
 
 You can see the `<h1>` and the `</h1>` surrounding the the text "This is the the title to my document". This is how HTML operates. You can have opening tag which has information or more tags inside of it. In this case we have an `h1` tag which is a heading tag: it's used for the biggest title on the page, typically a title. If you rendered that using the browser, it's look like:
